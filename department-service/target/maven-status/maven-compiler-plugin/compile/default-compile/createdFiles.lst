@@ -1,5 +1,0 @@
-com\balu\springboot\department\DepartmentServiceApplication.class
-com\balu\springboot\department\controller\DepartmentController.class
-com\balu\springboot\department\service\DepartmentService.class
-com\balu\springboot\department\entity\Department.class
-com\balu\springboot\department\repository\DepartmentRepository.class
